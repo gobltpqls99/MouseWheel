@@ -1,0 +1,24 @@
+[debug] [2021-03-01T14:33:30.437Z] ----------------------------------------------------------------------
+[debug] [2021-03-01T14:33:30.440Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\B.S.PARK\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-03-01T14:33:30.440Z] CLI Version:   9.1.2
+[debug] [2021-03-01T14:33:30.440Z] Platform:      win32
+[debug] [2021-03-01T14:33:30.440Z] Node Version:  v15.5.0
+[debug] [2021-03-01T14:33:30.451Z] Time:          Mon Mar 01 2021 23:33:30 GMT+0900 (대한민국 표준시)
+[debug] [2021-03-01T14:33:30.451Z] ----------------------------------------------------------------------
+[debug] [2021-03-01T14:33:30.452Z] 
+[debug] [2021-03-01T14:33:30.456Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-03-01T14:33:30.489Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-03-01T14:33:30.490Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\따라만들기\마우스휠-시계
+
+[debug] [2021-03-01T14:33:31.169Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2021-03-01T14:33:31.170Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
